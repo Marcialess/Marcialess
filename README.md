@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Marcial</h1>
-<h4 align="center">developer trainee, if you can think of it, I can create it.  <a href="#" target="_blank">resume</a> for more</h4>
+<h4 align="center">developer trainee, if you can think of it, I can create it. </h4>
 </div>
 
 <div align="center">
