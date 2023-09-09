@@ -4,9 +4,10 @@
 </div>
 
 <div align="center">
-  <a href="#">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <a href="https://marcialess.github.io/Marcialess/">
+  <img src="https://raw.githubusercontent.com/Marcialess/Marcialess/main/snake.svg" alt="snake" />
+</a>
+
 </div>
 
 ---------
