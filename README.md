@@ -5,12 +5,12 @@
 
 <div align="center">
   <a href="#">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/Marcialess/Marcialess/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 -----
-<details>
+
   <summary>☎️ contact me</summary>
 <div>
   <samp>
@@ -28,7 +28,6 @@
     </p>
   </samp>
 </div>
-</details>
 
 <details>
   <summary>🧮 about</summary>
@@ -97,17 +96,6 @@
      </samp>
   </div>    
 </details>
-
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br/>
-  <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-<br/>
-  </samp>
-  </details>
   
 <details>
   <summary>🌏 global</summary>
