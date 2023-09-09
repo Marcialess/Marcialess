@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://marcialess.github.io/Marcialess/">
+  <a href="#">
   <img src="https://raw.githubusercontent.com/Marcialess/Marcialess/main/snake.svg" alt="snake" />
 </a>
 
