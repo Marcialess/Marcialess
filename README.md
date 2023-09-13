@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Marcial</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZA/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Marcial</h1>
 <h4 align="center"> (EDITING PROFILE)developer trainee, if you can think of it, I can create it. </h4>
 </div>
 
@@ -8,7 +8,7 @@
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img src "https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
