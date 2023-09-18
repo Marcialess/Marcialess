@@ -3,7 +3,7 @@
  <div><img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" alt="image-rocket"> 
 </div>
    
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZA/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Marcial</h1>
+<h1 align="center">Hi &#x1F44B;, I'm Marcial</h1>
 <h4 align="center"> (EDITING PROFILE)developer trainee, if you can think of it, I can create it. </h4>
 </div>
 
