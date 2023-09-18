@@ -1,7 +1,6 @@
 
 <div align="center">
- <div><img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" alt="image-rocket"> 
-</div>
+ 
    
 <h1 align="center">Hi &#x1F44B;, I'm Marcial</h1>
 <h4 align="center"> (EDITING PROFILE)developer trainee, if you can think of it, I can create it. </h4>
@@ -10,9 +9,8 @@
 <div align="center">
   <a href="#">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img src "https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <div><img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" alt="image-rocket"> 
+</div>
 </picture>
 
 </div>
