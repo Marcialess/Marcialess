@@ -49,16 +49,14 @@
      alt="website" /></a>
   </p>
   <p align="center">
-  <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main"><img align="center"
-     src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25"
-     alt="CodeFactor" /></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
+  
+  <a href="github.com/Marcialess" target="blank"><img align="center" 
+     src="https://github.com/Marcialess/Marcialess/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
      alt="page built"/></a>
   </p>
  <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" height="25"
+  <a href="github.com/Marcialess" target="blank"><img align="center" 
+     src="https://img.shields.io/github/license/Marcialess /Marcialess?color=purple&style=for-the-badge" height="25"
      alt="lisense" /></a>
   <a href="github.com/1999AZZAR"><img align="center"
      src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
